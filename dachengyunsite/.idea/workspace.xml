@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ae5e34d6-a5d0-4b1c-8720-46a93e05571e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="Vue Single File Component" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1ZkyY8v1Puw2DhEoKmpY5OWbmj3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/templates" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="ts.external.directory.path" value="D:\Program Files\JetBrains\PyCharm 2019.3.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\moons\PycharmProjects\dachengyunsite\templates\static" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\moons\PycharmProjects\dachengyunsite\templates" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Django server.dachengyunsite">
+    <configuration name="tests" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="dachengyunsite" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dachengyun" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dachengyun/tests.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dachengyunsite" type="Python.DjangoServer" factoryName="Django server">
+      <module name="dachengyunsite" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="dachengyunsite.settings" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Program Files\Python38\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.tests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ae5e34d6-a5d0-4b1c-8720-46a93e05571e" name="Default Changelist" comment="" />
+      <created>1585397431761</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585397431761</updated>
+      <workItem from="1585397433859" duration="4188000" />
+      <workItem from="1585456296617" duration="7000" />
+      <workItem from="1585553128851" duration="20000" />
+      <workItem from="1585554506228" duration="2415000" />
+      <workItem from="1585565724128" duration="3530000" />
+      <workItem from="1585608280228" duration="30569000" />
+      <workItem from="1587028324571" duration="3000" />
+      <workItem from="1587028369779" duration="1644000" />
+      <workItem from="1587083276532" duration="119000" />
+      <workItem from="1587084247188" duration="25000" />
+      <workItem from="1587103184316" duration="607000" />
+      <workItem from="1587117127777" duration="10000" />
+      <workItem from="1587117150944" duration="26000" />
+      <workItem from="1587117194340" duration="476000" />
+      <workItem from="1587126996054" duration="1999000" />
+      <workItem from="1587168254018" duration="37000" />
+      <workItem from="1587193854115" duration="5725000" />
+      <workItem from="1587216565248" duration="886000" />
+      <workItem from="1588593959288" duration="24000" />
+      <workItem from="1588640458265" duration="2785000" />
+      <workItem from="1588656058911" duration="9269000" />
+      <workItem from="1588679894980" duration="658000" />
+      <workItem from="1588734619756" duration="723000" />
+      <workItem from="1588904985314" duration="7000" />
+      <workItem from="1588907796824" duration="72000" />
+      <workItem from="1588916813677" duration="769000" />
+      <workItem from="1588917882971" duration="521000" />
+      <workItem from="1588918430729" duration="3027000" />
+      <workItem from="1588921479870" duration="2634000" />
+      <workItem from="1588924495853" duration="4769000" />
+      <workItem from="1588929283868" duration="2637000" />
+      <workItem from="1588940126953" duration="1220000" />
+      <workItem from="1588978869396" duration="25924000" />
+      <workItem from="1589064646469" duration="11529000" />
+      <workItem from="1589085282352" duration="35000" />
+      <workItem from="1589100820662" duration="150000" />
+      <workItem from="1589100979366" duration="12407000" />
+      <workItem from="1589167539300" duration="6913000" />
+      <workItem from="1589184185666" duration="53000" />
+      <workItem from="1589184241416" duration="10000" />
+      <workItem from="1589184355178" duration="2611000" />
+      <workItem from="1589204466333" duration="4475000" />
+      <workItem from="1589238168436" duration="8386000" />
+      <workItem from="1589250308584" duration="44000" />
+      <workItem from="1589251125863" duration="568000" />
+      <workItem from="1589251845507" duration="1490000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="502" y="135" width="1092" height="727" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589102211256">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="446" y="119" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1707.920@0.0.1707.920" timestamp="1587028444329" />
+    <state x="502" y="135" width="1092" height="727" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1589102211256" />
+    <state x="695" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585556282256">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="695" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1585556282256" />
+    <state x="690" y="299" key="#com.intellij.ide.scriptingContext.ui.PerFileMappingsDialogWrapper" timestamp="1589100904993">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="299" key="#com.intellij.ide.scriptingContext.ui.PerFileMappingsDialogWrapper/0.0.1920.1040@0.0.1920.1040" timestamp="1589100904993" />
+    <state x="584" y="207" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1588922351162">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="584" y="207" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1707.920@0.0.1707.920" timestamp="1588922351162" />
+    <state width="1663" height="284" key="GridCell.Tab.0.bottom" timestamp="1589248969637">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1238" height="219" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1589212405358" />
+    <state width="1663" height="284" key="GridCell.Tab.0.bottom/0.0.1707.920@0.0.1707.920" timestamp="1589248969637" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1589121060064" />
+    <state width="1663" height="284" key="GridCell.Tab.0.center" timestamp="1589248969637">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1238" height="219" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1589212405358" />
+    <state width="1663" height="284" key="GridCell.Tab.0.center/0.0.1707.920@0.0.1707.920" timestamp="1589248969637" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1589121060063" />
+    <state width="1663" height="284" key="GridCell.Tab.0.left" timestamp="1589248969637">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1238" height="219" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1589212405358" />
+    <state width="1663" height="284" key="GridCell.Tab.0.left/0.0.1707.920@0.0.1707.920" timestamp="1589248969637" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1589121060063" />
+    <state width="1663" height="284" key="GridCell.Tab.0.right" timestamp="1589248969637">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1238" height="219" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1589212405358" />
+    <state width="1663" height="284" key="GridCell.Tab.0.right/0.0.1707.920@0.0.1707.920" timestamp="1589248969637" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1589121060063" />
+    <state width="1663" height="284" key="GridCell.Tab.1.bottom" timestamp="1589248969637">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1663" height="284" key="GridCell.Tab.1.bottom/0.0.1707.920@0.0.1707.920" timestamp="1589248969637" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585664073418" />
+    <state width="1663" height="284" key="GridCell.Tab.1.center" timestamp="1589248969637">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1663" height="284" key="GridCell.Tab.1.center/0.0.1707.920@0.0.1707.920" timestamp="1589248969637" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585664073418" />
+    <state width="1663" height="284" key="GridCell.Tab.1.left" timestamp="1589248969637">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1663" height="284" key="GridCell.Tab.1.left/0.0.1707.920@0.0.1707.920" timestamp="1589248969637" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585664073418" />
+    <state width="1663" height="284" key="GridCell.Tab.1.right" timestamp="1589248969637">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="1663" height="284" key="GridCell.Tab.1.right/0.0.1707.920@0.0.1707.920" timestamp="1589248969637" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585664073418" />
+    <state x="461" y="161" key="SettingsEditor" timestamp="1589100969861">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="410" y="142" key="SettingsEditor/0.0.1707.920@0.0.1707.920" timestamp="1588929204058" />
+    <state x="461" y="161" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1589100969861" />
+    <state x="575" y="202" width="540" height="524" key="StructurePopup" timestamp="1589013567210">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="575" y="202" width="540" height="524" key="StructurePopup/0.0.1707.920@0.0.1707.920" timestamp="1589013567210" />
+    <state x="511" y="255" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1585619860710">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="511" y="255" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040@0.0.1920.1040" timestamp="1585619860710" />
+    <state x="516" y="195" width="672" height="678" key="search.everywhere.popup" timestamp="1588930161941">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="516" y="195" width="672" height="678" key="search.everywhere.popup/0.0.1707.920@0.0.1707.920" timestamp="1588930161941" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/dachengyunsite$syncLockUtil.coverage" NAME="syncLockUtil Coverage Results" MODIFIED="1585611770539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dachengyun" />
+    <SUITE FILE_PATH="coverage/dachengyunsite$tests.coverage" NAME="tests Coverage Results" MODIFIED="1589239470349" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dachengyun" />
+    <SUITE FILE_PATH="coverage/dachengyunsite$test.coverage" NAME="test Coverage Results" MODIFIED="1585402305547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
