@@ -25,7 +25,7 @@
 ### dachengyunsite-服务器端应用
 Django实现的http服务应用，对客户端应用于管理员界面提供http-post-json交互API。Vue+bootstrapVue+axios实现的管理页面。
 #### manageOperate.py
-管理页面API
+* 管理页面API
 * 管理页面API，提供用户、文件夹、权限的增删查操作。
 * 管理页面没有做安全控制，但是服务器端管理API限制只允许127.0.0.1地址访问，所以当前只支持远程登录到服务器然后在本地使用浏览器访问，作者是部署在windows服务器然后用chrome访问管理页面，如果要部署在linux服务器，请删除掉代码中的ip限制内容然后自行增加安全访问控制。
 #### userOperate.py
