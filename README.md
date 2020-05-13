@@ -47,7 +47,7 @@ Django实现的http服务应用，对客户端应用于管理员界面提供http
 ```
 # 网络环境部署时
 ALLOWED_HOSTS = ['*']
-# Vue项目开发调试时启动另外一个服务，需要django开发跨域请求
+# Vue项目开发调试时启动另外一个服务，需要django开放跨域请求
 MIDDLEWARE = [
   'corsheaders.middleware.CorsMiddleware',
 ]
