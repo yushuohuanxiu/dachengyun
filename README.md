@@ -8,7 +8,7 @@
 
 ### dachengyunclient-客户端应用
 ##### install.py
-应用初始化脚本，将应用路径、服务器端应用访问地址、同步文件最大限制等信息初始化到windows注册表。
+应用初始化脚本，将应用路径、服务器端应用访问地址、同步文件最大限制等信息初始化到windows注册表。<br/>
 然后将iconOverlay组件注册到windows shell实现同步目录下的文件同步状态图标叠加显示功能（类似于坚果云和oneDriver的同步文件状态图标更改）。
 最后重启explorer.exe进程，用于使刚刚注册的iconOverlay组件生效。
 ##### uninstall.py
