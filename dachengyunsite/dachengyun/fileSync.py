@@ -1,10 +1,9 @@
 from django.http import JsonResponse
 from django.db import connection
 import simplejson
-import rsaUtil
 import base64
 import os
-import syncLockUtil
+from dachengyun import rsaUtil, syncLockUtil
 import hashlib
 
 
