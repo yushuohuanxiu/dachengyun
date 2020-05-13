@@ -28,7 +28,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1YvhOtJHwu2BQpbsKfcBzPfbapv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -208,6 +212,7 @@
       <workItem from="1589248853060" duration="491000" />
       <workItem from="1589249879158" duration="1813000" />
       <workItem from="1589251713018" duration="1619000" />
+      <workItem from="1589327160083" duration="1551000" />
     </task>
     <servers />
   </component>
